@@ -1,0 +1,88 @@
+                                            /* GENERALI */
+body{
+  margin: 0;
+  background: white;
+  font-size: 15px;
+  line-height: 1.6;
+  color: black;
+  -webkit-font-smoothing: antialiased;
+}
+section{
+  display: -webkit-box;
+}
+a {
+  color:white;
+  text-decoration: none;
+
+}
+a:hover{
+  color: #E9E950;
+}
+
+
+
+        /* MAIN */
+#wrapper{
+  /* background: #ADC496; */
+  background: white;
+  height: 100%;
+  width: 100%;
+  max-width: 1000px;
+  margin: auto;
+  border-left: solid 1px;
+  border-right: solid 1px;
+}
+.pagina{
+  height: 110%;
+  width: 100%;
+  /* border-top: solid 1px; */
+}
+#sottocap1{        /* PRIMA PAGINA */
+  margin-top:100px;
+}
+table.barra-nav{
+  width: 1000px;
+  background: #012060;
+  color: white;
+  border-collapse: collapse;
+  text-align: center;
+  position: fixed;
+}
+td{
+  border-radius: 10px;
+}
+tr{
+  border-radius: 10px;
+}
+tr.primariga{
+  height: 55px;
+}
+tr.secondariga{
+  height: 25px;
+}
+.sempreattivo{
+  background: white !important;
+  color:black !important;
+}
+.secondariga a{
+  background: #74B1DE;
+  border-radius:10px;
+  padding: 5px 15px;
+}
+.secondariga .piena a.sempreattivo{
+  border-top: solid 1px;
+  border-bottom: solid 2px red;
+  border-bottom-left-radius: 0px;
+  border-bottom-right-radius: 0px;
+}
+        /* VISUALIZZAZIONE CELLULARE */
+@media screen and (max-width:915px){
+
+
+
+
+
+
+
+
+}
