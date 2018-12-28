@@ -76,9 +76,18 @@ tr.secondariga{
   border-bottom-left-radius: 0px;
   border-bottom-right-radius: 0px;
 }
-        /* VISUALIZZAZIONE CELLULARE */
-@media screen and (max-width:915px){
 
+        /* VISUALIZZAZIONE CELLULARE */
+@media screen and (max-width:1000px){
+.barra-nav td.nonlogo{
+  display: none;
+}
+.secondariga{
+  display: none;
+}
+.pagina{
+  margin-top: 57px !important;
+}
 
 
 
