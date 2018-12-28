@@ -35,7 +35,8 @@ a:hover{
 .pagina{
   height: 110%;
   width: 100%;
-  /* border-top: solid 1px; */
+  background: red;
+  border-top: solid 1px;
 }
 #sottocap1{        /* PRIMA PAGINA */
   margin-top:100px;
