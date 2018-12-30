@@ -38,6 +38,7 @@ display:none;
 <body>
   <section id="top">
     <div id="wrapper">
+    <!-- <progress id="progressbar" value="0" max="100"></progress> -->
       <table class="barra-nav" cellspacing="0" cellpadding="0">
         <tr class="primariga">
           <!-- <td width="#"><a class="logo" href="index.html" title="Pagina Iniziale">logo</a></td> -->
@@ -49,20 +50,15 @@ display:none;
           <td><a href="#" title="Capitolo 5">6. STUDIO DI FUNZIONE</a></td>
           <td><a href="#" title="Capitolo 6">7. INTEGRALI</a></td>
         </tr>
-        <!-- <tr class="secondariga">
-          <td class="piena nonlogo"><a href="#sottocap1" title="Significato di Continuit&agrave;">2.1: Significato</a></td>
-          <td class="piena nonlogo"><a href="#sottocap2" title="Concetto di Intorno">2.2: Intorno</a></td>
-          <td class="piena nonlogo"><a href="#sottocap3" title="Cos'&egrave; la Continuit&agrave;&#13;Prova">2.3: Continuit&agrave;</a></td>
-        </tr> -->
       </table>
         <div class="scrolling-wrapper wrapper">
-          <div class="sottocapitolo"><a href="#2_1" title="prova">2.1 Significato</a></div>
-          <div class="sottocapitolo"><a href="#2_2" title="prova">2.2 Intorno</a></div>
-          <div class="sottocapitolo"><a href="#2_3" title="prova">2.3 Continuit&agrave</a></div>
+          <div class="sottocapitolo"><a href="#sottocap1" title="2.1    Significato di continuit&agrave;">2.1 Significato</a></div>
+          <div class="sottocapitolo"><a href="#sottocap2" title="2.2.1 Definizione di intorno&#13;2.2.2 Propriet&agrave; di intorno&#13;2.2.3 Topologia: punti di accumulazione, isolati, di frontiera, interni ed esterni">2.2 Intorno</a></div>
+          <div class="sottocapitolo"><a href="#sottocap3" title="2.3.1 Definizione di continuit&agrave;&#13;2.3.2 Tipi di discontinuit&agrave; I, II e III specie">2.3 Continuit&agrave</a></div>
         </div>
     </div>
   </section>
-
+<!--&#13; codice per andare a capo-->
 
 
 
@@ -71,22 +67,28 @@ display:none;
     <div id="wrapper">
 <img id="adslaterale" src="provapubbl.png" class="adslaterale" alt="pubblicit&agrave;" width="300px" height="250px"/>
       <div id="wrapper2">
-        <img id="2_1" class="primapagina" src="pag053_par2.1.jpg" alt="pagina del libro" />
+        <div id="sottocap1">
+        <img class="primapagina" src="pag053_par2.1.jpg" alt="pagina del libro" />
+        </div>
         <img id="adsbanner" src="provapubblbanner.png" class="adsbanner" alt="pubblicit&agrave;" width="728px" height="90px"/>
-        <img id="2_2" class="pagina" src="pag054_par2.2.jpg" alt="pagina del libro" />
-        <img id="#" class="pagina" src="pag055.jpg" alt="pagina del libro" />
-        <img id="#" class="pagina" src="pag056.jpg" alt="pagina del libro" />
-        <img id="#" class="pagina" src="pag057.jpg" alt="pagina del libro" />
-        <img id="#" class="pagina" src="pag058.jpg" alt="pagina del libro" />
-        <img id="#" class="pagina" src="pag059.jpg" alt="pagina del libro" />
-        <img id="#" class="pagina" src="pag060.jpg" alt="pagina del libro" />
-        <img id="2_3" class="pagina" src="pag061_par2.3.jpg" alt="pagina del libro" />
-        <img id="#" class="pagina" src="pag062.jpg" alt="pagina del libro" />
-        <img id="#" class="pagina" src="pag063_par2.32.jpg" alt="pagina del libro" />
-        <img id="#" class="pagina" src="pag064.jpg" alt="pagina del libro" />
-        <img id="#" class="pagina" src="pag065.jpg" alt="pagina del libro" />
-        <img id="#" class="pagina" src="pag066.jpg" alt="pagina del libro" />
-        <img id="#" class="pagina" src="pag067.jpg" alt="pagina del libro" />
+        <div id="sottocap2">
+        <img class="pagina" src="pag054_par2.2.jpg" alt="pagina del libro" />
+        <img class="pagina" src="pag055.jpg" alt="pagina del libro" />
+        <img class="pagina" src="pag056.jpg" alt="pagina del libro" />
+        <img class="pagina" src="pag057.jpg" alt="pagina del libro" />
+        <img class="pagina" src="pag058.jpg" alt="pagina del libro" />
+        <img class="pagina" src="pag059.jpg" alt="pagina del libro" />
+        <img class="pagina" src="pag060.jpg" alt="pagina del libro" />
+        </div>
+        <div id="sottocap3">
+        <img class="pagina" src="pag061_par2.3.jpg" alt="pagina del libro" />
+        <img class="pagina" src="pag062.jpg" alt="pagina del libro" />
+        <img class="pagina" src="pag063_par2.32.jpg" alt="pagina del libro" />
+        <img class="pagina" src="pag064.jpg" alt="pagina del libro" />
+        <img class="pagina" src="pag065.jpg" alt="pagina del libro" />
+        <img class="pagina" src="pag066.jpg" alt="pagina del libro" />
+        <img class="pagina" src="pag067.jpg" alt="pagina del libro" />
+        </div>
       </div>
     </div>
   </section>
@@ -135,6 +137,16 @@ display:none;
     //   $("a").css("color", "white"); //colore ai link non clickati
     //   $(this).css("color", "#012060");  //colore al link clickato
     // });
+  //   $(window).scroll(function () {
+  // var s = $(window).scrollTop(),
+  //       d = $(document).height(),
+  //       c = $(window).height();
+  //       scrollPercent = (s / (d-c)) * 100;
+  //       var position = scrollPercent;
+  //
+  //  $("#progressbar").attr('value', position);
+
+});
   </script>
 </body>
 

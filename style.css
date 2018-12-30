@@ -11,7 +11,7 @@ a {
   text-decoration: none;
 }
 a:hover{
-  color: #E9E950;
+  color: #40AD1A;
 }
                                 /* PUBBLICITA' */
 .adslaterale{  /*stile per le pubblicità rettangolari*/
@@ -26,7 +26,12 @@ a:hover{
   border: solid 1px black;
   margin-left: 86px;
 }
-
+/* progress { /*stile per la progress bar /
+    position:fixed;
+    height: 5px;
+    top:0;
+    width: 1280px;
+} */
                             /* CORPO PRINCIPALE */
 #wrapper{  /*contenitore topbar compresa*/
   /* background: #ADC496; */
