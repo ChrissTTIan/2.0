@@ -5,78 +5,102 @@ body{
   font-size: 15px;
   line-height: 1.6;
   color: black;
-  -webkit-font-smoothing: antialiased;
-}
-section{
-  display: -webkit-box;
 }
 a {
   color:white;
   text-decoration: none;
-
 }
 a:hover{
   color: #E9E950;
 }
-
-
-
-        /* MAIN */
-#wrapper{
-  /* background: #ADC496; */
-  background: white;
-  height: 100%;
-  width: 100%;
-  max-width: 1000px;
-  margin: auto;
-  border-left: solid 1px;
-  border-right: solid 1px;
+                                /* PUBBLICITA' */
+.adslaterale{  /*stile per le pubblicità rettangolari*/
+  position: fixed;
+  margin-left: 940px;
+  border: solid 2px green;
 }
-.pagina{
-  height: 110%;
-  width: 100%;
-  background: red;
-  border-top: solid 1px;
-}
-#sottocap1{        /* PRIMA PAGINA */
+#adslaterale{  /*posizionamento per le pubblicità rettangolari*/
   margin-top:100px;
 }
-table.barra-nav{
-  width: 1000px;
-  background: #012060;
-  color: white;
-  border-collapse: collapse;
-  text-align: center;
-  position: fixed;
-}
-td{
-  border-radius: 10px;
-}
-tr{
-  border-radius: 10px;
-}
-tr.primariga{
-  height: 55px;
-}
-tr.secondariga{
-  height: 25px;
-}
-.sempreattivo{
-  background: white !important;
-  color:black !important;
-}
-.secondariga a{
-  background: #74B1DE;
-  border-radius:10px;
-  padding: 5px 15px;
-}
-.secondariga .piena a.sempreattivo{
-  border-top: solid 1px;
-  border-bottom: solid 2px red;
-  border-bottom-left-radius: 0px;
-  border-bottom-right-radius: 0px;
+.adsbanner{  /*stile per le pubblicità banner*/
+  border: solid 1px black;
+  margin-left: 86px;
 }
 
+                            /* CORPO PRINCIPALE */
+#wrapper{  /*contenitore topbar compresa*/
+  /* background: #ADC496; */
+  /* background: green; */
+  height: 100%;
+  width: 100%;
+  max-width: 1280px;
+  margin: auto;
+  border-left: solid 2px red;
+  border-right: solid 2px red;
+}
+#wrapper2{  /*contenitore per le pagine*/
+    /* background: red; */
+    height: 100%;
+    width: 100%;
+    max-width: 900px;
+    position: relative;
+    margin-left: 0px;
+    z-index: -1;
+    border: solid 1px blue;
+}
+.primapagina{
+  margin-top: 100px;
+  height: 110%;
+  width: 900px;
+  border: solid 1px orange;
+}
+.pagina{  /*misure per le immagini delle pagine*/
+  height: 110%;
+  width: 900px;
+  border: solid 1px orange;
+  margin-top: 1px;
+}
+table.barra-nav{  /*Riga della tabella con i capitoli*/
+  width: 1280px;
+  background: #012060;
+  color: white;
+  position: fixed;
+  height: 50px;
+  text-align: center;
+  font-size: 18px;
+}
+div.capattivo{  /*stile per capitolo in cui mi trovo*/
+  background: #D8D9DB !important;
+  height: 50px;
+  border-radius: 25px;
+  border-bottom-left-radius: 0px;
+  border-bottom-right-radius: 0px;
+  border-top: solid 7px #012060;
+}
+div.capattivo a{  /*stile scritta del capitolo in cui mi trovo*/
+  color:#012060 !important;
+  font-size: 22px;
+  font-weight: 600;
+}
+.scrolling-wrapper {  /*contenitore con sottocapitoli */
+  position: fixed;
+  width: 1280px;
+  background: #D8D9DB;
+  margin-top: 50px;
+  height: 50px;
+  overflow-x: scroll;
+  overflow-y: hidden;
+  white-space: nowrap;
+}
+.sottocapitolo {  /*stile scritte dei sottocapitoli*/
+    display: inline-block;
+    font-size: 20px;
+    margin-right: 2em;
+    margin-left: 1em;
+}
+.attivo{  /*stile che viene assegnato ai link attivi*/
+color:#012060
+}
         /* VISUALIZZAZIONE CELLULARE */
 @media screen and (max-width:1000px){
 .barra-nav td.nonlogo{
