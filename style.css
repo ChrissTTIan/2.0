@@ -13,6 +13,8 @@ a {
 a:hover{
   color: #40AD1A;
 }
+
+
                                 /* PUBBLICITA' */
 .adslaterale{  /*stile per le pubblicità rettangolari*/
   position: fixed;
@@ -103,25 +105,11 @@ div.capattivo a{  /*stile scritta del capitolo in cui mi trovo*/
     margin-right: 2em;
     margin-left: 1em;
 }
+.sottocapitolo a{
+  cursor:help;
+}
 .attivo{  /*stile che viene assegnato ai link attivi*/
-color:#012060
+color:#012060 !important;
 }
         /* VISUALIZZAZIONE CELLULARE */
 @media screen and (max-width:1000px){
-.barra-nav td.nonlogo{
-  display: none;
-}
-.secondariga{
-  display: none;
-}
-.pagina{
-  margin-top: 57px !important;
-}
-
-
-
-
-
-
-
-}

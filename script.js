@@ -79,10 +79,10 @@
                                   // NUOVE
 function apri(){
 console.log("ci sono");
-var x = document.getElementById("ad");
-if(x.className==="top-nav chiuso"){
-  x.className="top-nav";
+var x = document.getElementById("");
+if(x.className===""){
+  x.className="";
 }else{
-  x.className="top-nav chiuso";
+  x.className="";
 }
 }
