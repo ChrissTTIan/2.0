@@ -1,0 +1,50 @@
+body{
+  margin: 0;
+  background: white;
+  font-size: 15px;
+  line-height: 1.6;
+  color: black;
+}
+a {
+  color:white;
+  text-decoration: none;
+}
+a:hover{
+  color: #40AD1A;
+}
+                            /* CORPO PRINCIPALE */
+#wrapper{  /*contenitore topbar compresa*/
+  /* background: #ADC496; */
+  /* background: green; */
+  height: 100%;
+  width: 100%;
+  max-width: 1280px;
+  margin: auto;
+  /* border-left: solid 2px red;
+  border-right: solid 2px red; */
+}
+#barra-nav{
+  height: 40px;
+  width: 1280px;
+  background: #D97C23;
+}
+#barra-nav tr td{
+  color: white;
+  text-align: center;
+  font-weight: 400;
+  font-size: 20px;
+}
+#immagineziotom{
+  align:left;
+  margin-left: 80px;
+  box-shadow: 5px 0 5px -5px #333;
+}
+#scritta1{
+  width:465px;
+  float:right;
+  margin-top: 20px;
+  margin-right: 70px;
+  font-size: 18px;
+  font-weight: 500;
+  text-align: justify;
+}

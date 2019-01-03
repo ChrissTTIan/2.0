@@ -42,8 +42,8 @@ a:hover{
   width: 100%;
   max-width: 1280px;
   margin: auto;
-  border-left: solid 2px red;
-  border-right: solid 2px red;
+  /* border-left: solid 2px red; */
+  /* border-right: solid 2px red; */
 }
 #wrapper2{  /*contenitore per le pagine*/
     /* background: red; */
@@ -53,18 +53,18 @@ a:hover{
     position: relative;
     margin-left: 0px;
     z-index: -1;
-    border: solid 1px blue;
+    /* border: solid 1px blue; */
 }
 .primapagina{
   margin-top: 100px;
   height: 110%;
   width: 900px;
-  border: solid 1px orange;
+  /* border: solid 1px orange; */
 }
 .pagina{  /*misure per le immagini delle pagine*/
   height: 110%;
   width: 900px;
-  border: solid 1px orange;
+  /* border: solid 1px orange; */
   margin-top: 1px;
 }
 table.barra-nav{  /*Riga della tabella con i capitoli*/
@@ -79,10 +79,10 @@ table.barra-nav{  /*Riga della tabella con i capitoli*/
 div.capattivo{  /*stile per capitolo in cui mi trovo*/
   background: #D8D9DB !important;
   height: 50px;
-  border-radius: 25px;
-  border-bottom-left-radius: 0px;
-  border-bottom-right-radius: 0px;
-  border-top: solid 7px #012060;
+  /* border-radius: 25px; */
+  /* border-bottom-left-radius: 0px; */
+  /* border-bottom-right-radius: 0px; */
+  /* border-top: solid 7px #012060; */
 }
 div.capattivo a{  /*stile scritta del capitolo in cui mi trovo*/
   color:#012060 !important;
@@ -113,3 +113,5 @@ color:#012060 !important;
 }
         /* VISUALIZZAZIONE CELLULARE */
 @media screen and (max-width:1000px){
+
+}
