@@ -4,6 +4,7 @@ body{
   font-size: 15px;
   line-height: 1.6;
   color: black;
+  overflow-y: hidden;
 }
 a {
   color:white;
@@ -23,6 +24,9 @@ a:hover{
   /* border-left: solid 2px red;
   border-right: solid 2px red; */
 }
+#logo{
+  margin-top: 3px;
+}
 #barra-nav{
   height: 40px;
   width: 1280px;
@@ -37,7 +41,7 @@ a:hover{
 #immagineziotom{
   align:left;
   margin-left: 80px;
-  box-shadow: 5px 0 5px -5px #333;
+  box-shadow: 5px 0 5px -5px #9E9E9E;
 }
 #scritta1{
   width:465px;
@@ -47,4 +51,14 @@ a:hover{
   font-size: 18px;
   font-weight: 500;
   text-align: justify;
+}
+#divisore{
+  color:#9E9E9E;
+  margin-top: 140px;
+}
+#foot{
+  margin-top: 0px;
+  text-align: center;
+  color: #9E9E9E;
+  font-weight: 600;
 }
