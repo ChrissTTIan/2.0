@@ -5,6 +5,7 @@ body{
   font-size: 15px;
   line-height: 1.6;
   color: black;
+  position: relative;
 }
 a {
   color:white;
@@ -22,7 +23,8 @@ a:hover{
   border: solid 2px green;
 }
 #adslaterale{  /*posizionamento per le pubblicità rettangolari*/
-  margin-top:100px;
+  top:200px;
+position: fixed;
 }
 .adsbanner{  /*stile per le pubblicità banner*/
   border: solid 1px black;
@@ -50,7 +52,7 @@ a:hover{
     height: 100%;
     width: 100%;
     max-width: 900px;
-    position: relative;
+    position: absolute;
     margin-left: 0px;
     z-index: -1;
     /* border: solid 1px blue; */
@@ -71,10 +73,14 @@ table.barra-nav{  /*Riga della tabella con i capitoli*/
   width: 1280px;
   background: #012060;
   color: white;
-  position: fixed;
   height: 50px;
   text-align: center;
   font-size: 18px;
+}
+section#top{
+  margin: 0 auto;
+  z-index:10;
+  width:100%;
 }
 div.capattivo{  /*stile per capitolo in cui mi trovo*/
   background: #D8D9DB !important;
@@ -90,10 +96,8 @@ div.capattivo a{  /*stile scritta del capitolo in cui mi trovo*/
   font-weight: 600;
 }
 .scrolling-wrapper {  /*contenitore con sottocapitoli */
-  position: fixed;
   width: 1280px;
   background: #D8D9DB;
-  margin-top: 50px;
   height: 50px;
   overflow-x: scroll;
   overflow-y: hidden;

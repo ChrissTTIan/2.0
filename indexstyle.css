@@ -4,7 +4,6 @@ body{
   font-size: 15px;
   line-height: 1.6;
   color: black;
-  overflow-y: hidden;
 }
 a {
   color:white;
@@ -35,7 +34,7 @@ a:hover{
 #barra-nav tr td{
   color: white;
   text-align: center;
-  font-weight: 400;
+  font-weight: 10;
   font-size: 20px;
 }
 #immagineziotom{
@@ -61,4 +60,12 @@ a:hover{
   text-align: center;
   color: #9E9E9E;
   font-weight: 600;
+}
+.scrolling-wrapper {  /*contenitore con sottocapitoli */
+  position: fixed;
+  width: 1280px;
+  background: #D8D9DB;
+  overflow-x: scroll;
+  overflow-y: hidden;
+  white-space: nowrap;
 }
