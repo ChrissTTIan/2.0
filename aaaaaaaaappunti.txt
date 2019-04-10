@@ -1,0 +1,253 @@
+
+Per fare nuovo capitolo:
+-copia incollare da un capitolo già fatto
+-cambiare titolo pagina
+-aggiungere classe capattivo alla div con il capitolo attivo (senza <a href=""></a>)
+-sistemare lista capitoli
+	-aggiungere capitolo con link dal quale si ha copiato
+	-sistemare le classi dei capitoli non attivi e di quelli attivi
+-sistemare sottocapitoli con relativi link e cambiare nomi
+-cambiare informazioni in hover dei sottocapitoli
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+   ~  ---->  Unicode 007E
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+Nella tabella qui sotto i sottocapitoli saranno quelli da mettere nella barra orizzontale scorrevole
+I Sotto saranno quelli da mettere in hover passando sul nome dei sottocapitoli (quelli di cui parlo sopra)
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+Capitolo 1 Le funzioni
+	-sottocapitolo 1 Definizione e significato
+Cap1 - pag001
+Cap1 - pag002
+Cap1 - pag003
+Cap1 - pag004
+Cap1 - pag005
+Cap1 - pag006
+Cap1 - pag007
+Cap1 - pag008
+Cap1 - pag009
+Cap1 - pag010
+	-sottocapitolo 2 Simmetrie
+Cap1 - pag011
+Cap1 - pag012
+Cap1 - pag013
+Cap1 - pag014
+Cap1 - pag015
+	-sottocapitolo 3 Dominio
+Cap1 - pag016
+Cap1 - pag017
+Cap1 - pag018
+Cap1 - pag019
+Cap1 - pag020
+Cap1 - pag021
+	-sottocapitolo 4 Codominio e insieme immagine
+Cap1 - pag022
+Cap1 - pag023
+Cap1 - pag024
+Cap1 - pag025
+	-sottocapitolo 5 Tipi di funzione
+Cap1 - pag026  	sotto1 Funzioni iniettive
+Cap1 - pag027	sotto2 Funzioni suriettive
+Cap1 - pag028
+Cap1 - pag029	sotto3 Funzioni biiettive
+Cap1 - pag030
+	-sottocapitolo 6 Grafici da sapere
+Cap1 - pag031	sotto1 Grafico funzione esponenziale
+Cap1 - pag032	sotto2 Grafico funzione logaritmica	sotto3 Grafico funzione esponenziale
+Cap1 - pag033
+Cap1 - pag034
+Cap1 - pag035
+Cap1 - pag036	sotto4 Grafico funzioni trigonometriche
+Cap1 - pag037
+Cap1 - pag038	sotto5 Trucchetti utili per disegnare queste funzioni
+Cap1 - pag039
+Cap1 - pag040
+Cap1 - pag041
+Cap1 - pag042
+Cap1 - pag043
+	-sottocapitolo 7 Conclusione
+Cap1 - pag044
+Cap1 - pag045	sotto1 Funzioni con modulo
+Cap1 - pag046
+Cap1 - pag047
+Cap1 - pag048
+Cap1 - pag049
+Cap1 - pag050	sotto2 Esempi vari
+Cap1 - pag051
+Cap1 - pag052
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Capitolo 2 Continuità
+	-sottocapolo 1 Significato
+Cap2 - pag053
+	-sottocapitolo 2 Intorno
+Cap2 - pag054	sotto1 Definizione
+Cap2 - pag055	sotto2 Proprietà dell'intorno
+Cap2 - pag056	sotto3 Tipologia dei punti
+Cap2 - pag057
+Cap2 - pag058
+Cap2 - pag059
+Cap2 - pag060
+	-sottocapitolo 3 Continuità
+Cap2 - pag061	sotto1 Definizione di continuità
+Cap2 - pag062
+Cap2 - pag063	sotto2	Tipi di discontinuità
+Cap2 - pag064
+Cap2 - pag065
+Cap2 - pag066
+Cap2 - pag067
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Capitolo 3 I limiti
+	-sottocapitolo 1 Significato di limite
+Cap3 - pag068
+Cap3 - pag069
+	-sottocapitolo 2 Operazioni con zero ed infinito 
+Cap3 - pag070	Sotto 1 Numero diviso infinito | Sotto 2 Numero diviso zero
+Cap3 - pag071	Sotto 3 Numero per zero | Sotto 4 Numero per infinito
+	-sottocapitolo 3 Esercizi banali con i limiti
+Cap3 - pag072
+Cap3 - pag073
+Cap3 - pag074
+Cap3 - pag075
+	-sottocapitolo 4 Casi di indeterminazione
+Cap3 - pag076	Sotto 1 Algebra dell'infinito
+Cap3 - pag077	Sotto 2 Ordine di infinito di un polinomio
+Cap3 - pag078	Sotto 3 Ordine di infinitesimo di un polinomio
+Cap3 - pag079	Sotto 4 Esercizi sui casi di indeterminazione (con polinomi)
+Cap3 - pag080
+Cap3 - pag081
+Cap3 - pag082
+Cap3 - pag083
+Cap3 - pag084
+Cap3 - pag085
+	-sottocapitolo 5 Funzioni non polinomiali
+Cap3 - pag086	Sotto 1 Infinito di logaritmo
+Cap3 - pag087
+Cap3 - pag088
+Cap3 - pag089
+Cap3 - pag090	Sotto 2 Infinito di esponenziale
+Cap3 - pag091
+Cap3 - pag092
+Cap3 - pag093
+	-sottocapitolo 6 Teoria dei limiti
+Cap3 - pag094	Sotto 1 Definizione matematica di limite
+Cap3 - pag095
+Cap3 - pag096
+Cap3 - pag097
+Cap3 - pag098
+Cap3 - pag099	Sotto 2 Esercizi usando la definizione di limite
+Cap3 - pag100
+Cap3 - pag101
+Cap3 - pag102
+Cap3 - pag103	Sotto 3 Teorema di unicità del limite
+Cap3 - pag104
+Cap3 - pag105
+Cap3 - pag106
+Cap3 - pag107
+	-sottocapitolo 7 Limiti notevoli
+Cap3 - pag108	Sotto 1 Cosa sono?
+Cap3 - pag109
+Cap3 - pag110	Sotto 2 Limiti notevoli da sapere 
+Cap3 - pag111		
+Cap3 - pag112
+Cap3 - pag113
+Cap3 - pag114
+Cap3 - pag115
+Cap3 - pag116
+Cap3 - pag117
+Cap3 - pag118
+Cap3 - pag119
+Cap3 - pag120
+Cap3 - pag121 
+	-sottocapitolo 8
+Cap3 - pag122	Sotto 1 Simboli di Laudan | Sotto 2 Asintotico "~"
+Cap3 - pag123
+Cap3 - pag124	Sotto 3 O piccolo "o"
+Cap3 - pag125
+Cap3 - pag126 
+	-sottocapitolo 9 Esercizi con i limiti
+Cap3 - pag127
+Cap3 - pag128
+Cap3 - pag129
+Cap3 - pag130
+Cap3 - pag131
+Cap3 - pag132
+Cap3 - pag133
+Cap3 - pag134
+Cap3 - pag135
+Cap3 - pag136 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+Capitolo 4 Le derivate
+	-sottocapitolo 1
+Cap4 - pag137	Sotto 1 Ripasso sulle rette
+Cap4 - pag138
+Cap4 - pag139
+Cap4 - pag140
+Cap4 - pag141	Sotto 2 Signifato geometrico di derivata
+Cap4 - pag142
+Cap4 - pag143	Sotto 3 Definizione di derivata
+Cap4 - pag144
+Cap4 - pag145
+Cap4 - pag146
+Cap4 - pag147
+Cap4 - pag148
+Cap4 - pag149
+	-sottocapitolo 2
+Cap4 - pag150	Sotto 1 Come calcolare le derivate
+Cap4 - pag151
+Cap4 - pag152
+Cap4 - pag153
+Cap4 - pag154	Sotto 2 Derivate di funzioni composte
+Cap4 - pag155
+Cap4 - pag156
+Cap4 - pag157	Sotto 3 Errori da non fare
+Cap4 - pag158	Sotto 4 Derivata di prodotto e quoziente di funzioni
+Cap4 - pag159
+Cap4 - pag160
+Cap4 - pag161
+Cap4 - pag162
+Cap4 - pag163
+Cap4 - pag164
+	-sottocapitolo 3	
+Cap4 - pag165
+Cap4 - pag166	Sotto 1 Definizione di funzione monotòna
+Cap4 - pag167	Sotto 2 Cosa a che fare la monotonìa di una funzione con la sua derivata?
+Cap4 - pag168
+Cap4 - pag169
+Cap4 - pag170
+Cap4 - pag171
+Cap4 - pag172
+Cap4 - pag173
+Cap4 - pag174
+Cap4 - pag175	Sotto 3 Significato punto di massimo e di minimo
+Cap4 - pag176
+Cap4 - pag177	Sotto 4 Definzione punto di massimo e di minimo
+Cap4 - pag178
+Cap4 - pag179
+Cap4 - pag180	Sotto 5 Derivata prima =0
+Cap4 - pag181
+Cap4 - pag182
+	-sottocapitolo 4 Derivata seconda
+Cap4 - pag183	Sotto 1 Esempi grafici della derivata seconda
+Cap4 - pag184
+Cap4 - pag185
+Cap4 - pag186
+Cap4 - pag187	Sotto 2 Punti di flesso	
+	-sottocapitolo 5 Esercizi con la derivata
+Cap4 - pag188
+Cap4 - pag189
+Cap4 - pag190
+Cap4 - pag191
+Cap4 - pag192
+Cap4 - pag193
+Cap4 - pag194
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
