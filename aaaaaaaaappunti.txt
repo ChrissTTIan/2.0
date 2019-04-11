@@ -168,8 +168,8 @@ Cap3 - pag118
 Cap3 - pag119
 Cap3 - pag120
 Cap3 - pag121 
-	-sottocapitolo 8
-Cap3 - pag122	Sotto 1 Simboli di Laudan | Sotto 2 Asintotico "~"
+	-sottocapitolo 8 Simboli di Laudan
+Cap3 - pag122	Sotto 1 Cosa sono | Sotto 2 Asintotico "~"
 Cap3 - pag123
 Cap3 - pag124	Sotto 3 O piccolo "o"
 Cap3 - pag125
@@ -187,7 +187,7 @@ Cap3 - pag135
 Cap3 - pag136 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 Capitolo 4 Le derivate
-	-sottocapitolo 1
+	-sottocapitolo 1 Cosa è?
 Cap4 - pag137	Sotto 1 Ripasso sulle rette
 Cap4 - pag138
 Cap4 - pag139
@@ -201,8 +201,8 @@ Cap4 - pag146
 Cap4 - pag147
 Cap4 - pag148
 Cap4 - pag149
-	-sottocapitolo 2
-Cap4 - pag150	Sotto 1 Come calcolare le derivate
+	-sottocapitolo 2 Come calcolare le derivate
+Cap4 - pag150	Sotto 1 Derivate di funzioni semplici e proprietà della derivata
 Cap4 - pag151
 Cap4 - pag152
 Cap4 - pag153
@@ -217,7 +217,7 @@ Cap4 - pag161
 Cap4 - pag162
 Cap4 - pag163
 Cap4 - pag164
-	-sottocapitolo 3	
+	-sottocapitolo 3 Funzioni monotòne
 Cap4 - pag165
 Cap4 - pag166	Sotto 1 Definizione di funzione monotòna
 Cap4 - pag167	Sotto 2 Cosa a che fare la monotonìa di una funzione con la sua derivata?
