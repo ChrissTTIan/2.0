@@ -13,6 +13,12 @@ a:hover{
   color: #40AD1A;
 }
                             /* CORPO PRINCIPALE */
+#corpo{
+  height: 538px;
+}
+#corpolibri{
+  height:513px;
+}
 #wrapper{  /*contenitore topbar compresa*/
   /* background: #ADC496; */
   /* background: green; */
@@ -60,6 +66,9 @@ a:hover{
   text-align: center;
   color: #9E9E9E;
   font-weight: 600;
+}
+table#copertine{
+  margin-top: 25px;
 }
 .scrolling-wrapper {  /*contenitore con sottocapitoli */
   position: fixed;
