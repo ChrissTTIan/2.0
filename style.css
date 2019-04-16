@@ -61,12 +61,12 @@ position: fixed;
   margin-top: 100px;
   height: 110%;
   width: 900px;
-  /* border: solid 1px orange; */
+  border: solid 1px #D8D9DB;
 }
 .pagina{  /*misure per le immagini delle pagine*/
   height: 110%;
   width: 900px;
-  /* border: solid 1px orange; */
+  border: solid 1px #D8D9DB;
   margin-top: 1px;
 }
 table.barra-nav{  /*Riga della tabella con i capitoli*/
